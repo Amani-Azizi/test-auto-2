@@ -1,0 +1,22 @@
+1713888648030	geckodriver	INFO	Listening on 127.0.0.1:55057
+1713888651152	mozrunner::runner	INFO	Running command: "C:\\Users\\TestITDev\\.cache\\selenium\\firefox\\win64\\125.0.2\\firefox.exe" "--marionette" "--remote-debu ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TESTIT~1\\AppData\\Local\\Temp\\rust_mozprofileSLS4W2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713888651830	Marionette	INFO	Marionette enabled
+1713888651928	Marionette	INFO	Listening on port 55081
+WebDriver BiDi listening on ws://127.0.0.1:55058
+Read port: 55081
+1713888652149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55058/devtools/browser/6a51c3ae-c1d3-41eb-8f4f-43df8a13c769
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: Error: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1713888682266	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.

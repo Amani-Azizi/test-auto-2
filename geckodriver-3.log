@@ -1,0 +1,47 @@
+1713888846122	geckodriver	INFO	Listening on 127.0.0.1:55271
+1713888849181	mozrunner::runner	INFO	Running command: "C:\\Users\\TestITDev\\.cache\\selenium\\firefox\\win64\\125.0.2\\firefox.exe" "--marionette" "--remote-debu ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TESTIT~1\\AppData\\Local\\Temp\\rust_mozprofilecJwts9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1713888849581	Marionette	INFO	Marionette enabled
+1713888849693	Marionette	INFO	Listening on port 55281
+WebDriver BiDi listening on ws://127.0.0.1:55272
+Read port: 55281
+1713888849956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55272/devtools/browser/94b239ff-f443-4d21-bd02-7fb145053b33
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: unreachable code after return statement
+JavaScript error: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: Error: Minified React error #200; visit https://reactjs.org/docs/error-decoder.html?invariant=200 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+1713888859796	Marionette	INFO	Stopped listening on port 55281
+JavaScript warning: https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js, line 1: Script terminated by timeout at:
+onProcessStyle@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:6266178
+87753da1c31caf0fbb22/t.onProcessStyle@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:4633040
+87753da1c31caf0fbb22/t.onProcessRule@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:4632867
+87753da1c31caf0fbb22/t.process@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:4629237
+e@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:4631072
+87753da1c31caf0fbb22/t.createStyleSheet@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:4639740
+m@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:6258787
+e3c347cede310902ed65/t.default/A/<@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:6257272
+M@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:6259808
+A@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:6257187
+7be41aee592a5223505e/f/</g<@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:4410221
+Yo@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:856350
+Ti@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:864348
+mc@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:905021
+ls@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:895291
+cs@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:895214
+Qc@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:892223
+5712f1b9446531a0f3b8/Va/<@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:843608
+509e5ad2c194dc0e908b/t.unstable_runWithPriority@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:720542
+Fa@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:843317
+Va@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:843555
+B@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:719481
+509e5ad2c194dc0e908b/A.port1.onmessage@https://acceptation-fm.bcepharma.com/vendor.b5c00dfff1d87fa7e332.chunk.js:1:718237
+
+Dynamically enable window occlusion 1
